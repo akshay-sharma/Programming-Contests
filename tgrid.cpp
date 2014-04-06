@@ -1,3 +1,7 @@
+/*
+http://www.spoj.com/problems/TRGRID/
+*/
+
 #include<cstdio>
 #include<iostream>
 #include<cassert>
